@@ -7,3 +7,10 @@ Genome architecture mapping (GAM) is a new 3D genome profiling technique that do
 ## High-level Workflow
 
 ![pipeline](./FeaturePairPipeline.png)
+
+## Requirement
+
+1. numpy
+2. matplotlib
+3. pandas
+4. plotly
