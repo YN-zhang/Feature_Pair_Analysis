@@ -16,4 +16,4 @@ python combineforeandback.py foreground.filter.csv background.filter.csv foregro
 ###foreground.filter.csv is the foreground table, background.filter.csv is the background table. foreground_vs_background is the name of the output file
 
 Step 4 run the feature pair analysis:
-python 4methods_update_remove_phi.py
+python Calculate_info_gain.py
